@@ -1,0 +1,207 @@
+{
+  "version": "1.0",
+  "total_prompts": 40,
+  "categories": ["Romantic", "Fun", "Deep", "Long-Distance"],
+  "prompts": [
+    {
+      "id": 1,
+      "category": "Romantic",
+      "prompt": "What small thing do I do that makes you feel most loved?"
+    },
+    {
+      "id": 2,
+      "category": "Romantic",
+      "prompt": "When did you first realize you had feelings for me?"
+    },
+    {
+      "id": 3,
+      "category": "Romantic",
+      "prompt": "What is your favorite memory of us together?"
+    },
+    {
+      "id": 4,
+      "category": "Romantic",
+      "prompt": "How do you most like to receive affection?"
+    },
+    {
+      "id": 5,
+      "category": "Romantic",
+      "prompt": "What song reminds you of us?"
+    },
+    {
+      "id": 6,
+      "category": "Romantic",
+      "prompt": "What is something I do that always makes you smile?"
+    },
+    {
+      "id": 7,
+      "category": "Romantic",
+      "prompt": "Where would you love to travel with me someday?"
+    },
+    {
+      "id": 8,
+      "category": "Romantic",
+      "prompt": "What is one thing you hope never changes about us?"
+    },
+    {
+      "id": 9,
+      "category": "Romantic",
+      "prompt": "What does your ideal quiet evening together look like?"
+    },
+    {
+      "id": 10,
+      "category": "Romantic",
+      "prompt": "What is something you admire about how I handle challenges?"
+    },
+    {
+      "id": 11,
+      "category": "Fun",
+      "prompt": "If we could only eat one cuisine for the rest of our lives, what would you choose?"
+    },
+    {
+      "id": 12,
+      "category": "Fun",
+      "prompt": "What is the most embarrassing thing that happened on one of our dates?"
+    },
+    {
+      "id": 13,
+      "category": "Fun",
+      "prompt": "If we had a couples reality show, what would it be called?"
+    },
+    {
+      "id": 14,
+      "category": "Fun",
+      "prompt": "What movie could you watch with me over and over again?"
+    },
+    {
+      "id": 15,
+      "category": "Fun",
+      "prompt": "If we won the lottery tomorrow, what is the first thing we would do together?"
+    },
+    {
+      "id": 16,
+      "category": "Fun",
+      "prompt": "What is my most predictable habit?"
+    },
+    {
+      "id": 17,
+      "category": "Fun",
+      "prompt": "If we were a famous duo, who would we be?"
+    },
+    {
+      "id": 18,
+      "category": "Fun",
+      "prompt": "What is something silly that you secretly love about me?"
+    },
+    {
+      "id": 19,
+      "category": "Fun",
+      "prompt": "If we opened a business together, what would it be?"
+    },
+    {
+      "id": 20,
+      "category": "Fun",
+      "prompt": "What is one hobby you would love for us to try together?"
+    },
+    {
+      "id": 21,
+      "category": "Deep",
+      "prompt": "What is something you have never told anyone else but feel safe telling me?"
+    },
+    {
+      "id": 22,
+      "category": "Deep",
+      "prompt": "What is your biggest fear about the future?"
+    },
+    {
+      "id": 23,
+      "category": "Deep",
+      "prompt": "How do you want to be remembered by the people you love?"
+    },
+    {
+      "id": 24,
+      "category": "Deep",
+      "prompt": "What is a belief you held strongly in the past but have since changed your mind about?"
+    },
+    {
+      "id": 25,
+      "category": "Deep",
+      "prompt": "What does feeling truly understood look like to you?"
+    },
+    {
+      "id": 26,
+      "category": "Deep",
+      "prompt": "What part of your childhood shaped who you are today?"
+    },
+    {
+      "id": 27,
+      "category": "Deep",
+      "prompt": "What is one thing you wish more people understood about you?"
+    },
+    {
+      "id": 28,
+      "category": "Deep",
+      "prompt": "When do you feel most at peace?"
+    },
+    {
+      "id": 29,
+      "category": "Deep",
+      "prompt": "What is something you are still learning about yourself?"
+    },
+    {
+      "id": 30,
+      "category": "Deep",
+      "prompt": "If you could go back and give your younger self one piece of advice, what would it be?"
+    },
+    {
+      "id": 31,
+      "category": "Long-Distance",
+      "prompt": "What do you miss most about being physically together?"
+    },
+    {
+      "id": 32,
+      "category": "Long-Distance",
+      "prompt": "What is something small I could do to make the distance feel shorter?"
+    },
+    {
+      "id": 33,
+      "category": "Long-Distance",
+      "prompt": "What time of day do you think about me the most?"
+    },
+    {
+      "id": 34,
+      "category": "Long-Distance",
+      "prompt": "What is the first thing you want to do when we see each other again?"
+    },
+    {
+      "id": 35,
+      "category": "Long-Distance",
+      "prompt": "How can I better support you from far away?"
+    },
+    {
+      "id": 36,
+      "category": "Long-Distance",
+      "prompt": "What is something you have learned about yourself during our time apart?"
+    },
+    {
+      "id": 37,
+      "category": "Long-Distance",
+      "prompt": "What is a new routine we could start to feel more connected?"
+    },
+    {
+      "id": 38,
+      "category": "Long-Distance",
+      "prompt": "What moment from our last visit together still makes you smile?"
+    },
+    {
+      "id": 39,
+      "category": "Long-Distance",
+      "prompt": "What is something you want us to experience together once the distance is over?"
+    },
+    {
+      "id": 40,
+      "category": "Long-Distance",
+      "prompt": "How has being long-distance changed the way you think about our relationship?"
+    }
+  ]
+}
