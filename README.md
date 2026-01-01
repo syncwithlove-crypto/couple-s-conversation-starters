@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# Couples Conversation Prompts
 
-## Project info
+A curated collection of conversation prompts designed to help couples connect, communicate, and have meaningful conversations together.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Who is this for?
 
-## How can I edit this code?
+- Couples looking to deepen their connection
+- Long-distance relationships wanting to stay close
+- Date night inspiration
+- Anyone seeking thoughtful conversation starters
 
-There are several ways of editing your application.
+## How to use these prompts
 
-**Use Lovable**
+- **Conversation starters**: Pick a random prompt and discuss it together
+- **Quiz games**: Take turns answering and compare your responses
+- **Daily ritual**: Choose one prompt each day to keep communication flowing
+- **Date nights**: Use a category that fits the mood
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Categories
 
-Changes made via Lovable will be committed automatically to this repo.
+The prompts are organized into four categories:
 
-**Use your preferred IDE**
+| Category | Description |
+|----------|-------------|
+| **Romantic** | Questions about love, appreciation, and your relationship |
+| **Fun** | Lighthearted prompts for laughs and playful moments |
+| **Deep** | Thought-provoking questions for meaningful conversations |
+| **Long-Distance** | Prompts designed for couples navigating distance |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Files
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- `prompts.json` — All prompts in structured JSON format
+- `prompts.md` — Human-readable list of all prompts
 
-Follow these steps:
+## Usage
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Feel free to use these prompts however works best for you. Star or fork this repo to save it for later.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+These prompts are also used in a live couples quiz platform at [syncwithlove.com](https://syncwithlove.com).
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Contributing
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Have a great prompt idea? Feel free to open a pull request or issue.
 
-**Edit a file directly in GitHub**
+## License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+MIT — use freely, share openly.
